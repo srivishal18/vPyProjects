@@ -1,2 +1,2 @@
-My First project ever.
+Projects based on Python.
 No databases uploaded.
